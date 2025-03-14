@@ -135,6 +135,7 @@ Donc si la durée entre maintenant et le dernier déclenchement de l'automatisat
 - activation de l'automatisation de réglage du thermostat.
 - désactivation de cette automatisation.
 
+Cette automatisation doit être désactivée par défaut, elle ne sera activée que le temps du contrôle manuel.
 
 ## Création des fenêtres
 
