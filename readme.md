@@ -18,7 +18,7 @@ La documentation est maintenant découpée en plusieurs pages pour faciliter la 
 4. [Bonus](documentation/bonus.md)
 
 
-# Quelques exemples 
+# Quelques illustrations 
 
 
 
