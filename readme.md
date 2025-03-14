@@ -25,14 +25,8 @@ La documentation est maintenant découpée en plusieurs pages pour faciliter la 
 ![image](images/bubblecard.png)
 
 Quand on change manuellement la température, apparaît la fenêtre pour choisir le temps
-![image](images/numbercardboxcard.png)
+![image](images/number.png)
 
 On peut ajouter un rappel du temps restant du contrôle manuel
 
 ![image](images/controle.png)
-
-***
-
-[hacs]: https://github.com/custom-components/hacs
-[Bubble-Card] : https://github.com/Clooos/Bubble-Card
-[Numberbox-card] : https://github.com/junkfix/numberbox-card
