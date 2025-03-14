@@ -15,7 +15,7 @@ trouvable dans HACS
 La documentation est maintenant découpée en plusieurs pages pour faciliter la lecture et la recherche d'informations :
 1. [présentation](documentation/presentation.md),
 3. [Création des différents éléments](documentation/creation.md),
-4. [Bonus](documentation/bonus.md)
+4. [Bonus pour afficher le temps de contrôle restant](documentation/bonus.md)
 
 
 # Quelques illustrations 
